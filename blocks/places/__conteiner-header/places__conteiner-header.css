@@ -30,7 +30,7 @@
 
 @media screen and (max-width: 424px) {
   .places__container-header {
-    margin-bottom: 32px; 
+    margin-bottom: 32px;
     align-items: center;
     flex-direction: column;
   }
