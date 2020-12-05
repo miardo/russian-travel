@@ -1,0 +1,13 @@
+.places__link-title {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  margin: 0;
+  text-decoration-line: underline;
+  color: #FFFFFF;
+}
+
+.places__link-title:hover {
+  opacity: 0.8;
+}
