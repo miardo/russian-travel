@@ -4,4 +4,4 @@
 Проект про путешествие, про красоту бескрайних просторов России.
 
 ## Про проект
-Проект свёрстан на осовании макета, размещённого в [FIGMе](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile). В проекте реализована адаптивная вёрстка, используются флексбоксы и гриды, подключены локальные шрифты. Проект размещён на[GH PAGEs](https://miardo.github.io/russian-travel/).
+Проект свёрстан на осовании макета, размещённого в [FIGMе](https://www.figma.com/file/OyRWEjU6wBwRe1hapzQoLx/Sprint-3%3A-Russia-%2F-desktop-%2B-mobile). В проекте реализована адаптивная вёрстка, используются флексбоксы и гриды, подключены локальные шрифты. Проект размещён на [GH PAGEs](https://miardo.github.io/russian-travel/).
