@@ -10,10 +10,7 @@
   opacity: 0.8;
 }
 
-.header__language-link:first-child {
-  margin-right: 18px;
-  text-decoration: underline;
-}
+
 
 @media screen and (max-width: 424px) {
   .header__language-link {
