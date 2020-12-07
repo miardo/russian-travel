@@ -3,34 +3,11 @@
   justify-content: center;
   align-items: center;
   margin: auto;
+  max-width: 100%;
 }
 
 @media screen and (min-width: 1280px) {
   .cover {
     max-width: 92.5%;
-  }
-}
-
-@media screen and (min-width: 1024px) and (max-width: 1279px) {
-  .cover {
-    max-width: 100%;
-  }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1023px) {
-  .cover {
-    max-width: 100%;
-  }
-}
-
-@media screen and (min-width: 425px) and (max-width: 767px) {
-  .cover {
-    max-width: 100%;
-  }
-}
-
-@media screen and (max-width: 424px) {
-  .cover {
-    max-width: 100%;
   }
 }

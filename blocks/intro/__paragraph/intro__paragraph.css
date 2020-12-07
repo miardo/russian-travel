@@ -4,40 +4,25 @@
   font-size: 16px;
   line-height: 163%;
   margin-top: 40px;
+  margin-bottom: 33px;
+  max-width: 100%;
   color: #FFFFFF;
 }
 
 @media screen and (min-width: 1280px) {
   .intro__paragraph {
     max-width: 70.1219512%;
-    margin-bottom: 33px;
   }
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .intro__paragraph {
     max-width: 74.3534483%;
-    margin-bottom: 33px;
-  }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1023px) {
-  .intro__paragraph {
-    margin-bottom: 33px;
-    max-width: 100%;
-  }
-}
-
-@media screen and (min-width: 425px) and (max-width: 767px) {
-  .intro__paragraph {
-    margin-bottom: 33px;
-    max-width: 100%;
   }
 }
 
 @media screen and (max-width: 424px) {
   .intro__paragraph {
     margin-bottom: 34px;
-    max-width: 100%;
   }
 }

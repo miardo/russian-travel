@@ -2,6 +2,7 @@
   display: flex;
   justify-content: space-between;
   margin: auto;
+  width: 93.75%;
 }
 
 @media screen and (min-width: 1280px) {
@@ -19,14 +20,12 @@
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .header {
-    width: 93.75%;
     max-width: 928px;
   }
 }
 
 @media screen and (min-width: 425px) and (max-width: 767px) {
   .header {
-    width: 93.75%;
     max-width: 720px;
   }
 }

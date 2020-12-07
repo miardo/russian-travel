@@ -12,7 +12,7 @@
 
 @media screen and (min-width: 425px) and (max-width: 767px) {
   .cover__text {
-    width: 90%;
+    width: 95%;
     font-size: 16px;
     line-height: 20px;
   }

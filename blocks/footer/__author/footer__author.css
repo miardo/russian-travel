@@ -2,31 +2,14 @@
   font-style: normal;
   font-weight: normal;
   font-size: 14px;
+  line-height: 16px;
   margin: 0;
   color: #FFFFFF;
 }
 
-@media screen and (min-width: 1280px) {
-  .footer__author {
-    line-height: 16px;
-  }
-}
-
-@media screen and (min-width: 1024px) and (max-width: 1279px) {
-  .footer__author {
-    line-height: 16px;
-  }
-}
-
-@media screen and (min-width: 768px) and (max-width: 1023px) {
-  .footer__author {
-    line-height: 16px;
-  }
-}
-
 @media screen and (min-width: 425px) and (max-width: 767px) {
   .footer__author {
-    line-height: 16px;
+    bottom: 0;
   }
 }
 

@@ -1,4 +1,4 @@
-@import url(../fonts/fonts.css); 
+@import url(../vendor/fonts/fonts.css); 
 
 @import url(../vendor/normalize.css); 
 
@@ -30,12 +30,10 @@
 
 @import url(../blocks/places/places.css);
 @import url(../blocks/places/__container/places__container.css);
-@import url(../blocks/places/__conteiner-header/places__conteiner-header.css);
 @import url(../blocks/places/__title/places__title.css);
 @import url(../blocks/places/__link/places__link.css);
 @import url(../blocks/places/__link-text/places__link-text.css);
 @import url(../blocks/places/__link-title/places__link-title.css);
-@import url(../blocks/places/__container-description/places__container-description.css);
 @import url(../blocks/places/__paragraph/places__paragraph.css);
 @import url(../blocks/places/__img/places__img.css);
 @import url(../blocks/places/__text/places__text.css);

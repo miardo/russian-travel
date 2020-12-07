@@ -4,30 +4,26 @@
   align-items: center;
   margin: auto;
   max-width: 76.875%;
-
+  width: 100%;
+  padding-top: 48px;
+  padding-bottom: 92px;
 }
 
 @media screen and (min-width: 1280px) {
   .lead {
     padding-top: 56px;
-    max-width: 76.875%;
-    padding-bottom: 92px;
   }
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1279px) {
   .lead {
-    padding-top: 48px;
     width: 90.625%;
     max-width: 984px;
-    padding-bottom: 92px;
   }
 }
 
 @media screen and (min-width: 768px) and (max-width: 1023px) {
   .lead {
-    padding-top: 48px;
-    width: 100%;
     max-width: 928px;
     padding-bottom: 88px;
   }
@@ -35,16 +31,13 @@
 
 @media screen and (min-width: 425px) and (max-width: 767px) {
   .lead {
-    padding-top: 48px;
-    width: 100%;
     max-width: 768px;
-    padding-bottom: 88px;
+    padding-bottom: 75px;
   }
 }
 
 @media screen and (max-width: 424px) {
   .lead {
-    padding-top: 48px;
     max-width: 100%;
     padding-bottom: 64px;
   }
